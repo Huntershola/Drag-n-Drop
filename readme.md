@@ -17,7 +17,7 @@ The Kanban Board is designed to help users visualize and organize tasks efficien
 ## Live Demo
 
 You can view the live demo of this project on Netlify:
-[Kanban Board](https://your-netlify-link.netlify.app)
+[Kanban Board](https://kanbann-board-app.netlify.app/)
 
 ## License
 
@@ -25,4 +25,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact [your-huntershola007@gmail.com](mailto:your-huntershola007@gmail.com).
+For any questions or feedback, please contact [huntershola007@gmail.com](mailto:your-huntershola007@gmail.com).
